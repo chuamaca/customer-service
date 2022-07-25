@@ -1,0 +1,8 @@
+com\bootcamp\customer\CustomerServiceApplication.class
+com\bootcamp\customer\model\document\Customer$CustomerBuilder.class
+com\bootcamp\customer\model\document\TypeCustomer$TypeCustomerBuilder.class
+com\bootcamp\customer\dto\CustomerRequestDto$CustomerRequestDtoBuilder.class
+com\bootcamp\customer\model\service\CustomerService.class
+com\bootcamp\customer\dto\CustomerRequestDto.class
+com\bootcamp\customer\model\document\TypeCustomer.class
+com\bootcamp\customer\model\document\Customer.class
